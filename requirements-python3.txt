@@ -20,7 +20,7 @@ psycopg2-binary==2.7.5
 pyparsing==2.2.0
 python-memcached==1.59
 pytz==2018.5
-PyYAML==4.2b4
+PyYAML==5.4
 requests==2.20.1
 six==1.11.0
 urllib3==1.24.1
